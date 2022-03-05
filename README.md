@@ -36,5 +36,5 @@ Challenges:
 ARIMA models are essentially ‘backward looking’. As such, they are generally poor at predicting turning points, unless the turning point represents a return to a long-run equilibrium.
 
 
-
+I am working on Fast Fourier Transform to check how the dataset would look for forecasting.
 
